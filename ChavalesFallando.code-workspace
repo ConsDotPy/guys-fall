@@ -1,7 +1,12 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"name": "ChavalesFallando",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "C:\\UE_5.0"
 		}
 	],
 	"settings": {
