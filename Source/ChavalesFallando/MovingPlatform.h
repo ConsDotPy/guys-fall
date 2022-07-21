@@ -35,4 +35,21 @@ public:
 	UPROPERTY(EditAnywhere)
 	int MyLong = 10001;
 
+	UPROPERTY(EditAnywhere)
+	int InputA = 750;
+
+	UPROPERTY(EditAnywhere)
+	int InputB = 125;
+
+	UPROPERTY(EditAnywhere)
+	int APlusB = 0;
+
+	UPROPERTY(EditAnywhere)
+	float InputAFloat = 7.5;
+
+	UPROPERTY(EditAnywhere)
+	float InputBFloat = 1.25;
+
+	UPROPERTY(EditAnywhere)
+	float APlusBFloat = 0.0;
 };

@@ -15,7 +15,12 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
+	MyInt = 250;
+
+	APlusB = InputA + InputB;
+	APlusBFloat = InputAFloat + InputBFloat;
+
 }
 
 // Called every frame
